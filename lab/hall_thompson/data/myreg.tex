@@ -1,0 +1,37 @@
+\documentclass{report}
+\usepackage{booktabs}
+\begin{document}\begin{center}
+\begin{tabular}{lclc}
+\toprule
+\textbf{Dep. Variable:}    &  vote\_general   & \textbf{  R-squared:         } &     1.000   \\
+\textbf{Model:}            &       OLS        & \textbf{  Adj. R-squared:    } &     1.000   \\
+\textbf{Method:}           &  Least Squares   & \textbf{  F-statistic:       } & 1.798e+31   \\
+\textbf{Date:}             & Thu, 04 Feb 2021 & \textbf{  Prob (F-statistic):} &     0.00    \\
+\textbf{Time:}             &     23:24:32     & \textbf{  Log-Likelihood:    } &    7377.9   \\
+\textbf{No. Observations:} &         213      & \textbf{  AIC:               } & -1.475e+04  \\
+\textbf{Df Residuals:}     &         208      & \textbf{  BIC:               } & -1.473e+04  \\
+\textbf{Df Model:}         &           4      & \textbf{                     } &             \\
+\bottomrule
+\end{tabular}
+\begin{tabular}{lcccccc}
+                       & \textbf{coef} & \textbf{std err} & \textbf{t} & \textbf{P$> |$t$|$} & \textbf{[0.025} & \textbf{0.975]}  \\
+\midrule
+\textbf{Intercept}     &    2.744e-16  &      7.8e-17     &     3.518  &         0.001        &     1.21e-16    &     4.28e-16     \\
+\textbf{vote\_general} &       1.0000  &     1.19e-16     &  8.38e+15  &         0.000        &        1.000    &        1.000     \\
+\textbf{treat}         &   -8.625e-17  &     5.87e-17     &    -1.468  &         0.144        &    -2.02e-16    &     2.95e-17     \\
+\textbf{rv}            &    4.317e-16  &     6.93e-16     &     0.623  &         0.534        &    -9.34e-16    &      1.8e-15     \\
+\textbf{treat\_rv}     &   -3.446e-16  &     1.06e-15     &    -0.325  &         0.746        &    -2.43e-15    &     1.75e-15     \\
+\bottomrule
+\end{tabular}
+\begin{tabular}{lclc}
+\textbf{Omnibus:}       &  0.029 & \textbf{  Durbin-Watson:     } &    0.041  \\
+\textbf{Prob(Omnibus):} &  0.986 & \textbf{  Jarque-Bera (JB):  } &    0.013  \\
+\textbf{Skew:}          & -0.013 & \textbf{  Prob(JB):          } &    0.994  \\
+\textbf{Kurtosis:}      &  2.973 & \textbf{  Cond. No.          } &     95.2  \\
+\bottomrule
+\end{tabular}
+%\caption{OLS Regression Results}
+\end{center}
+
+Warnings: \newline
+ [1] Standard Errors assume that the covariance matrix of the errors is correctly specified.\end{document}
