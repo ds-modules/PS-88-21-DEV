@@ -3,31 +3,48 @@ from copy import deepcopy
 from operator import itemgetter
 from enum import Enum
 import matplotlib.pyplot as plt
+from collections import namedtuple
+Pref = namedtuple('Pref', ['in_weight', 'out_weight'])
 
 
 class AgentType(Enum):
     A = 'A'
     B = 'B'
     EMPTY = '_'
+
     def __str__(self):
         return self.value
+
+    @staticmethod
+    def other(agent):
+        assert agent.agent_type != AgentType.EMPTY
+        return AgentType.A if agent.agent_type == AgentType.B else AgentType.B
 
 
 class Agent:
     @staticmethod
     def swap(agent_x, agent_y):
         mid_x = (agent_x.position[0]+agent_y.position[0])/2
-        plt.annotate("swapping", (*agent_x.position, 0), xytext=(mid_x,
-                                                                 -0.004), arrowprops={'arrowstyle': '->'})
-        plt.annotate("swapping", (*agent_y.position, 0), xytext=(mid_x,
-                                                                 -0.004), arrowprops={'arrowstyle': '->'})
+        plt.annotate("moving", (*agent_x.position, 0), xytext=(mid_x,
+                                                               -0.004), arrowprops={'arrowstyle': '->'})
+        plt.annotate("moving", (*agent_y.position, 0), xytext=(mid_x,
+                                                               -0.004), arrowprops={'arrowstyle': '->'})
         temp = deepcopy(agent_x.position)
         agent_x.position = agent_y.position
         agent_y.position = temp
 
-    def __init__(self, coords: list, agent_type: AgentType):
+    def __init__(self, coords: int, agent_type: AgentType, weights: Pref):
         self.position = coords
         self.agent_type = agent_type
+        self.pref: Pref = weights if agent_type != AgentType.EMPTY else Pref(
+            0, 0)
+
+    @classmethod
+    def from_other(a, coords, other):
+        return a(coords, other.agent_type, other.pref)
+
+    def __str__(self):
+        return f"Agent of type {self.agent_type} at position {self.position} with preferences {self.preferences}"
 
 
 class Map:
@@ -37,8 +54,12 @@ class Map:
         return sqrt(sum(((agent1.position[i] - agent2.position[i])**2 for i in range(len(agent1.position)))))
 
     @staticmethod
-    def from_string(agents_string):
-        return Map([Agent([idx], AgentType(agent_type))for idx, agent_type in enumerate(agents_string)])
+    def from_string(agents_string, A_weights=Pref(1, 0), B_weights=Pref(1, 0)):
+        agents = []
+        for idx, agent_type in enumerate(agents_string):
+            w = A_weights if agent_type == 'A' else B_weights
+            agents.append(Agent([idx], AgentType(agent_type), w))
+        return Map(agents)
 
     def __init__(self, agents: list):
         self.agents = agents
@@ -55,7 +76,7 @@ class Map:
             color = 'r' if a.agent_type == AgentType.A else 'g' if a.agent_type == AgentType.B else 'b'
             plt.scatter(a.position, 0, c=color)
             plt.annotate(str(a.agent_type), (*a.position, 0), xytext=(*a.position,
-                                                                      0.001), rotation=60, arrowprops={'arrowstyle': '->'})
+                                                                      0.001), rotation=60)
         plt.show()
 
     def get_coords(self):
@@ -68,57 +89,67 @@ class Map:
         others = self.get_type(agent_type)
         others = filter(lambda other_agent: other_agent is not agent, others)
         return min((Map.distance(agent, other_agent) for other_agent in others))
+    # def avoid_other_type(self, agent, other_type):
+    #     # Swap it with empty locales further from the other types
+    #     swappable = self.get_type(AgentType.EMPTY)
+    #     furthest_swappable = max(
+    #         swappable, key=lambda swap_agent: self.dist_to_type(swap_agent, other_type))
+    #     if self.dist_to_type(agent, other_type) < self.dist_to_type(furthest_swappable, other_type):
+    #         # print('hey', agent.agent_type)
+    #         print(
+    #             f"swapping agents at {agent.position}, {furthest_swappable.position}""")
+    #         Agent.swap(agent, furthest_swappable)
+    #         return True
+    #     return False
 
-    def avoid_other_type(self, agent, other_type):
-        # Swap it with empty locales further from the other types
-        swappable = self.get_type(AgentType.EMPTY)
-        furthest_swappable = max(
-            swappable, key=lambda swap_agent: self.dist_to_type(swap_agent, other_type))
-        if self.dist_to_type(agent, other_type) < self.dist_to_type(furthest_swappable, other_type):
-            # print('hey', agent.agent_type)
-            print(
-                f"swapping agents at {agent.position}, {furthest_swappable.position}""")
-            Agent.swap(agent, furthest_swappable)
-            return True
-        return False
-
-    def weighted_preference(self, agent, pref_type, other_type, pref_weight, other_weight):
+    def pos_score(self, agent):
         # Score a position based on its closeness to its preferred type and distance from other type (higher is better)
-        return -1 * pref_weight*self.dist_to_type(agent, pref_type) + other_weight*self.dist_to_type(agent, other_type)
+        return -1*agent.pref.in_weight*self.dist_to_type(agent, agent.agent_type) + agent.pref.out_weight*self.dist_to_type(agent, AgentType.other(agent))
 
-    def move(self, agent: Agent, other_type: str, in_weight: float = 1, out_weight: float = 1):
-        swappable = self.get_type(AgentType.EMPTY)
-        swappable_weights = {s: self.weighted_preference(
-            s, agent.agent_type, other_type, in_weight, out_weight) for s in swappable}
-        best_swappable = max(swappable_weights.items(),
-                             key=itemgetter(1))[0]
+    def vacancy_score(self, agent: Agent, vacancy_pos):
+        return self.pos_score(Agent.from_other(vacancy_pos, agent))
 
-        if self.weighted_preference(agent, agent.agent_type, other_type, in_weight, out_weight) < swappable_weights[best_swappable]:
-            # print(
-            #     f"swapping agents at {agent.position}, {best_swappable.position}""")
-            Agent.swap(agent, best_swappable)
+    def move(self, agent: Agent):
+        vacant = self.get_type(AgentType.EMPTY)
+        best_vacant = max(
+            vacant, key=lambda v: self.vacancy_score(agent, v.position))
+        # vacant_weights = {s: self.pos_score(
+        #     s, agent.agent_type, other_type) for s in vacant}
+        # best_swappable = max(vacant_weights.items(),
+        #                      key=itemgetter(1))[0]
+        # best_open = max(vacant, key=lambda a: self.pos_score(
+        #     Agent(a.position, agent.agent_type, agent.weights), agent.agent_type, other_type))
+        # print(best_swappable == self.pos_score(best_open, ))
+        # print(self.weighted_preference(agent, agent.agent_type, other_type), agent.prefences)
+        # print(vacant_weights)
+        if self.pos_score(agent) < self.vacancy_score(agent, best_vacant.position):
+            print(self.pos_score(agent), self.vacancy_score(agent, best_vacant.position))
+            print(
+                f"swapping agents at {agent.position}, {best_vacant.position}""")
+            Agent.swap(agent, best_vacant)
             return True
         return False
 
-    def move_all(self, in_weight=1, out_weight=1):
+    def move_all(self):
         agents = sorted(self.agents, key=lambda a: a.position)
         moved_any = False
         for a in filter(lambda a: a.agent_type != AgentType.EMPTY, agents):
-            other_type = AgentType.A if a.agent_type == AgentType.B else AgentType.B
-            a_moved = self.move(a, other_type, in_weight, out_weight)
+            a_moved = self.move(a)
             if a_moved:
                 moved_any = True
                 self.plot()
+                # return moved_any
         return moved_any
 
-    def schelling(self, in_weight=1, out_weight=1):
+    def schelling(self):
         runtime = 0
         moved_any = True
         self.plot()
         while moved_any:
-            some_moved = self.move_all(in_weight, out_weight)
+            some_moved = self.move_all()
             if not some_moved:
                 moved_any = False
+                plt.title('Finished')
                 self.plot()
             runtime += 1
             if runtime > 100:
@@ -127,7 +158,8 @@ class Map:
 
 
 if __name__ == "__main__":
-    m = Map.from_string('ABABAB_')
+    m = Map.from_string('ABABAB___', Pref(0, 1), Pref(1, -1))
+    # print(m.agents[0].preferences)
     # print(m)
     # m.plot()
     m.schelling()
