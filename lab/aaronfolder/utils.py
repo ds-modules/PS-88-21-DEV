@@ -69,7 +69,7 @@ def format_data(listed):
     listed: a python list-like of processed data (must be output of process_data)
 
     Returns:
-    Nothing: prints out 'Husbands' or 'Wives' according to the input,
+    Text and a pandas dataframe: prints out 'Husbands' or 'Wives' according to the input,
         displays the resulting formatted dataframe, and prints out the
         Table explanation.
 
