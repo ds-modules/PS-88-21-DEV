@@ -84,7 +84,7 @@ def format_data(listed):
                   'Difference (3)': ["{0} ({1})".format(listed[5],listed[6]), "{0} ({1})".format(listed[9],listed[10]),"{0} ({1})".format(listed[13],listed[14]),"{0} ({1})".format(listed[17],listed[18]),"{0} ({1})".format(listed[21],listed[22]),"{0} ({1})".format(listed[25],listed[26]),"{0} ({1})".format(listed[29],listed[30])," "]})
     display(data_frame)
     print("""Notes: This table reports average characteristics for insured and uninsured married couples in the
-          2009 National Health Interview Survey (NHIS). Columns (1), (2), (4), and (5) show average characteristics of
-          the group of individuals specified by the column heading. Columns (3) and (6) report the difference between
-          the average characteristic for individuals with and without health insurance (HI).
+          2009 National Health Interview Survey (NHIS). Columns (1), (2), (4), and (5) show average characteristics
+          of the group of individuals specified by the column heading. Columns (3) and (6) report the difference
+          between the average characteristic for individuals with and without health insurance (HI).
           Standard deviations are in brackets; standard errorsare reported in parentheses.""")
