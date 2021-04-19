@@ -8,4 +8,4 @@ branch: main
 File to open: lab/lab*/*.ipynb
 
 Completed Notebooks:  
-1) [Lab 1](https://datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2Fds-modules%2FPS-88-21-DEV&urlpath=tree%2FPS-88-21-DEV%2Flab%2Flab1%2F+Introduction+to+PS+88.ipynb&branch=main)
+1) [Lab 1](	)
