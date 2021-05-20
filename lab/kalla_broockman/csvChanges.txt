@@ -1,0 +1,5 @@
+Changes Made In CSV File:
+
+Original File URL: https://dataverse.harvard.edu/dataset.xhtml?persistentId=doi:10.7910/DVN/WKR39N
+Original File Name: broockman_kalla_replication_data.tab (second page; download as STATA .dta file)
+
