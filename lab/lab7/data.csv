@@ -1,0 +1,13 @@
+Canvasser,days,point.estimate,se.low,se.high,ci.low,ci.high
+All,1,0.292,0.22,0.364,0.15088,0.43312
+All,19,0.238,0.159,0.317,0.08316,0.39284
+All,40,0.352,0.278,0.426,0.20696,0.49704
+All,82,0.345,0.267,0.423,0.19212,0.49788
+Transgender/Gender Non-Conforming Only,5,0.453,0.344,0.562,0.23936,0.66664
+Non-Transgender Only,3,0.191,0.097,0.285,0.00676,0.37524
+Transgender/Gender Non-Conforming Only,23,0.3,0.172,0.428,0.04912,0.55088
+Non-Transgender Only,21,0.191,0.093,0.289,-0.00108,0.38308
+Transgender/Gender Non-Conforming Only,44,0.364,0.25,0.478,0.14056,0.58744
+Non-Transgender Only,42,0.321,0.228,0.414,0.13872,0.50328
+Transgender/Gender Non-Conforming Only,86,0.427,0.292,0.562,0.1624,0.6916
+Non-Transgender Only,84,0.324,0.22,0.428,0.12016,0.52784
