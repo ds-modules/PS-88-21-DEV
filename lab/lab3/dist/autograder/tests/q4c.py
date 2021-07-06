@@ -1,0 +1,12 @@
+test = {   'name': 'q4c',
+    'points': 1,
+    'suites': [   {   'cases': [   {'code': '>>> 0 <= group1_pivotal_rate <= 1\nTrue', 'hidden': False, 'locked': False},
+                                   {'code': '>>> np.random.seed(88);\n>>> group1_pivotal_rate == sum(grouptrials.column("group piv1"))/ntrials # SOLUTION\nTrue', 'hidden': True, 'locked': False},
+                                   {'code': '>>> 0 <= group2_pivotal_rate <= 1\nTrue', 'hidden': False, 'locked': False},
+                                   {'code': '>>> np.random.seed(88);\n>>> group2_pivotal_rate == sum(grouptrials.column("group piv2"))/ntrials # SOLUTION\nTrue', 'hidden': True, 'locked': False},
+                                   {'code': '>>> 0 <= group3_pivotal_rate <= 1\nTrue', 'hidden': False, 'locked': False},
+                                   {'code': '>>> np.random.seed(88);\n>>> group3_pivotal_rate == sum(grouptrials.column("group piv3"))/ntrials # SOLUTION\nTrue', 'hidden': True, 'locked': False}],
+                      'scored': True,
+                      'setup': '',
+                      'teardown': '',
+                      'type': 'doctest'}]}
