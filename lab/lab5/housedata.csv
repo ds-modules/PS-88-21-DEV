@@ -1,4 +1,4 @@
-State,Gore,Bush '00,location,first_name,middle_name,last_name,district,votes_with_party_pct,votes_against_party_pct,party,suffix,gender,geoid,Member Position
+State,Gore,Bush,location,first_name,middle_name,last_name,district,votes_with_party_pct,votes_against_party_pct,party,suffix,gender,geoid,Member Position
 AK,0.28,0.59,AK1,Don,,Young,1,0.92,0.0757,R,,M,0200,0.92
 AL,0.38,0.6,AL1,Sonny,,Callahan,1,0.94,0.058899999999999994,R,,,0101,0.94
 AL,0.38,0.61,AL2,Terry,,Everett,2,0.95,0.048600000000000004,R,,M,0102,0.95
