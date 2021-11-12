@@ -1,0 +1,17 @@
+country,pre_post,p90,p99,p99.9,top
+USA,pre,0,0,2,7
+Canada,pre,0,0,0,0
+UK,pre,0,5,6.25,8.333
+France,pre,0,0.4,2,2
+Sweden,pre,8.65,8.65,12.02,12.02
+Japan,pre,0,2.5,6.25,22
+Netherlands,pre,2.4,3.5,4.5,4.6
+Spain,pre,0,0,0,0
+USA,post,6,13.5,26,77
+Canada,post,0,4,15.8,72.5
+UK,post,11.25,25,36.25,52.5
+France,post,0,6,22,50
+Sweden,post,8.89,10.19,12.88,23.72
+Japan,post,0,2.5,6.25,30
+Netherlands,post,4.4,7.3,11.2,12.4
+Spain,post,0,0,0,0
