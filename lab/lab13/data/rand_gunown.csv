@@ -1,0 +1,1851 @@
+Year,STATE,HFR
+1980,Alabama,0.608
+1981,Alabama,0.597
+1982,Alabama,0.661
+1983,Alabama,0.586
+1984,Alabama,0.624
+1985,Alabama,0.644
+1986,Alabama,0.567
+1987,Alabama,0.609
+1988,Alabama,0.606
+1989,Alabama,0.627
+1990,Alabama,0.641
+1991,Alabama,0.632
+1992,Alabama,0.552
+1993,Alabama,0.6
+1994,Alabama,0.571
+1995,Alabama,0.554
+1996,Alabama,0.568
+1997,Alabama,0.557
+1998,Alabama,0.577
+1999,Alabama,0.537
+2000,Alabama,0.538
+2001,Alabama,0.522
+2002,Alabama,0.553
+2003,Alabama,0.504
+2004,Alabama,0.516
+2005,Alabama,0.485
+2006,Alabama,0.468
+2007,Alabama,0.481
+2008,Alabama,0.503
+2009,Alabama,0.482
+2010,Alabama,0.456
+2011,Alabama,0.513
+2012,Alabama,0.543
+2013,Alabama,0.516
+2014,Alabama,0.51
+2015,Alabama,0.495
+2016,Alabama,0.528
+1980,Alaska,0.789
+1981,Alaska,0.709
+1982,Alaska,0.737
+1983,Alaska,0.722
+1984,Alaska,0.712
+1985,Alaska,0.653
+1986,Alaska,0.688
+1987,Alaska,0.718
+1988,Alaska,0.748
+1989,Alaska,0.711
+1990,Alaska,0.699
+1991,Alaska,0.716
+1992,Alaska,0.685
+1993,Alaska,0.712
+1994,Alaska,0.667
+1995,Alaska,0.709
+1996,Alaska,0.663
+1997,Alaska,0.652
+1998,Alaska,0.559
+1999,Alaska,0.571
+2000,Alaska,0.601
+2001,Alaska,0.61
+2002,Alaska,0.614
+2003,Alaska,0.587
+2004,Alaska,0.58
+2005,Alaska,0.609
+2006,Alaska,0.551
+2007,Alaska,0.577
+2008,Alaska,0.613
+2009,Alaska,0.543
+2010,Alaska,0.611
+2011,Alaska,0.627
+2012,Alaska,0.607
+2013,Alaska,0.576
+2014,Alaska,0.618
+2015,Alaska,0.551
+2016,Alaska,0.572
+1980,Arizona,0.563
+1981,Arizona,0.598
+1982,Arizona,0.541
+1983,Arizona,0.554
+1984,Arizona,0.567
+1985,Arizona,0.538
+1986,Arizona,0.549
+1987,Arizona,0.564
+1988,Arizona,0.557
+1989,Arizona,0.624
+1990,Arizona,0.598
+1991,Arizona,0.564
+1992,Arizona,0.547
+1993,Arizona,0.53
+1994,Arizona,0.505
+1995,Arizona,0.532
+1996,Arizona,0.449
+1997,Arizona,0.465
+1998,Arizona,0.467
+1999,Arizona,0.409
+2000,Arizona,0.427
+2001,Arizona,0.35
+2002,Arizona,0.381
+2003,Arizona,0.393
+2004,Arizona,0.368
+2005,Arizona,0.373
+2006,Arizona,0.385
+2007,Arizona,0.38
+2008,Arizona,0.382
+2009,Arizona,0.396
+2010,Arizona,0.346
+2011,Arizona,0.329
+2012,Arizona,0.415
+2013,Arizona,0.366
+2014,Arizona,0.385
+2015,Arizona,0.36
+2016,Arizona,0.36
+1980,Arkansas,0.693
+1981,Arkansas,0.639
+1982,Arkansas,0.674
+1983,Arkansas,0.63
+1984,Arkansas,0.694
+1985,Arkansas,0.656
+1986,Arkansas,0.596
+1987,Arkansas,0.657
+1988,Arkansas,0.643
+1989,Arkansas,0.636
+1990,Arkansas,0.647
+1991,Arkansas,0.639
+1992,Arkansas,0.533
+1993,Arkansas,0.644
+1994,Arkansas,0.601
+1995,Arkansas,0.583
+1996,Arkansas,0.58
+1997,Arkansas,0.562
+1998,Arkansas,0.571
+1999,Arkansas,0.555
+2000,Arkansas,0.542
+2001,Arkansas,0.537
+2002,Arkansas,0.56
+2003,Arkansas,0.516
+2004,Arkansas,0.544
+2005,Arkansas,0.499
+2006,Arkansas,0.481
+2007,Arkansas,0.507
+2008,Arkansas,0.508
+2009,Arkansas,0.493
+2010,Arkansas,0.493
+2011,Arkansas,0.527
+2012,Arkansas,0.544
+2013,Arkansas,0.5
+2014,Arkansas,0.493
+2015,Arkansas,0.462
+2016,Arkansas,0.518
+1980,California,0.366
+1981,California,0.421
+1982,California,0.414
+1983,California,0.38
+1984,California,0.405
+1985,California,0.354
+1986,California,0.367
+1987,California,0.376
+1988,California,0.396
+1989,California,0.417
+1990,California,0.379
+1991,California,0.368
+1992,California,0.402
+1993,California,0.386
+1994,California,0.31
+1995,California,0.337
+1996,California,0.291
+1997,California,0.3
+1998,California,0.241
+1999,California,0.271
+2000,California,0.274
+2001,California,0.229
+2002,California,0.228
+2003,California,0.198
+2004,California,0.203
+2005,California,0.209
+2006,California,0.202
+2007,California,0.185
+2008,California,0.175
+2009,California,0.196
+2010,California,0.174
+2011,California,0.16
+2012,California,0.214
+2013,California,0.155
+2014,California,0.183
+2015,California,0.151
+2016,California,0.163
+1980,Colorado,0.54
+1981,Colorado,0.525
+1982,Colorado,0.574
+1983,Colorado,0.49
+1984,Colorado,0.593
+1985,Colorado,0.517
+1986,Colorado,0.495
+1987,Colorado,0.528
+1988,Colorado,0.527
+1989,Colorado,0.54
+1990,Colorado,0.535
+1991,Colorado,0.519
+1992,Colorado,0.483
+1993,Colorado,0.48
+1994,Colorado,0.49
+1995,Colorado,0.445
+1996,Colorado,0.465
+1997,Colorado,0.445
+1998,Colorado,0.409
+1999,Colorado,0.43
+2000,Colorado,0.467
+2001,Colorado,0.371
+2002,Colorado,0.363
+2003,Colorado,0.373
+2004,Colorado,0.411
+2005,Colorado,0.378
+2006,Colorado,0.399
+2007,Colorado,0.404
+2008,Colorado,0.402
+2009,Colorado,0.411
+2010,Colorado,0.384
+2011,Colorado,0.36
+2012,Colorado,0.414
+2013,Colorado,0.394
+2014,Colorado,0.385
+2015,Colorado,0.369
+2016,Colorado,0.379
+1980,Connecticut,0.256
+1981,Connecticut,0.298
+1982,Connecticut,0.315
+1983,Connecticut,0.3
+1984,Connecticut,0.295
+1985,Connecticut,0.254
+1986,Connecticut,0.284
+1987,Connecticut,0.3
+1988,Connecticut,0.261
+1989,Connecticut,0.318
+1990,Connecticut,0.315
+1991,Connecticut,0.322
+1992,Connecticut,0.375
+1993,Connecticut,0.309
+1994,Connecticut,0.316
+1995,Connecticut,0.293
+1996,Connecticut,0.238
+1997,Connecticut,0.228
+1998,Connecticut,0.219
+1999,Connecticut,0.198
+2000,Connecticut,0.202
+2001,Connecticut,0.189
+2002,Connecticut,0.193
+2003,Connecticut,0.179
+2004,Connecticut,0.166
+2005,Connecticut,0.202
+2006,Connecticut,0.174
+2007,Connecticut,0.116
+2008,Connecticut,0.192
+2009,Connecticut,0.185
+2010,Connecticut,0.172
+2011,Connecticut,0.163
+2012,Connecticut,0.183
+2013,Connecticut,0.141
+2014,Connecticut,0.2
+2015,Connecticut,0.192
+2016,Connecticut,0.188
+1980,Delaware,0.345
+1981,Delaware,0.396
+1982,Delaware,0.385
+1983,Delaware,0.294
+1984,Delaware,0.344
+1985,Delaware,0.331
+1986,Delaware,0.415
+1987,Delaware,0.4
+1988,Delaware,0.431
+1989,Delaware,0.483
+1990,Delaware,0.398
+1991,Delaware,0.385
+1992,Delaware,0.378
+1993,Delaware,0.397
+1994,Delaware,0.441
+1995,Delaware,0.353
+1996,Delaware,0.392
+1997,Delaware,0.326
+1998,Delaware,0.326
+1999,Delaware,0.319
+2000,Delaware,0.352
+2001,Delaware,0.3
+2002,Delaware,0.317
+2003,Delaware,0.304
+2004,Delaware,0.331
+2005,Delaware,0.3
+2006,Delaware,0.303
+2007,Delaware,0.262
+2008,Delaware,0.263
+2009,Delaware,0.265
+2010,Delaware,0.269
+2011,Delaware,0.309
+2012,Delaware,0.308
+2013,Delaware,0.289
+2014,Delaware,0.301
+2015,Delaware,0.32
+2016,Delaware,0.387
+1980,Florida,0.437
+1981,Florida,0.467
+1982,Florida,0.423
+1983,Florida,0.468
+1984,Florida,0.44
+1985,Florida,0.418
+1986,Florida,0.414
+1987,Florida,0.426
+1988,Florida,0.397
+1989,Florida,0.461
+1990,Florida,0.411
+1991,Florida,0.459
+1992,Florida,0.426
+1993,Florida,0.429
+1994,Florida,0.383
+1995,Florida,0.419
+1996,Florida,0.364
+1997,Florida,0.366
+1998,Florida,0.319
+1999,Florida,0.33
+2000,Florida,0.32
+2001,Florida,0.268
+2002,Florida,0.277
+2003,Florida,0.266
+2004,Florida,0.234
+2005,Florida,0.295
+2006,Florida,0.282
+2007,Florida,0.261
+2008,Florida,0.303
+2009,Florida,0.281
+2010,Florida,0.27
+2011,Florida,0.325
+2012,Florida,0.309
+2013,Florida,0.279
+2014,Florida,0.284
+2015,Florida,0.277
+2016,Florida,0.288
+1980,Georgia,0.609
+1981,Georgia,0.617
+1982,Georgia,0.615
+1983,Georgia,0.596
+1984,Georgia,0.603
+1985,Georgia,0.578
+1986,Georgia,0.55
+1987,Georgia,0.61
+1988,Georgia,0.583
+1989,Georgia,0.594
+1990,Georgia,0.574
+1991,Georgia,0.574
+1992,Georgia,0.569
+1993,Georgia,0.566
+1994,Georgia,0.525
+1995,Georgia,0.548
+1996,Georgia,0.52
+1997,Georgia,0.499
+1998,Georgia,0.507
+1999,Georgia,0.488
+2000,Georgia,0.467
+2001,Georgia,0.427
+2002,Georgia,0.442
+2003,Georgia,0.396
+2004,Georgia,0.43
+2005,Georgia,0.416
+2006,Georgia,0.395
+2007,Georgia,0.388
+2008,Georgia,0.395
+2009,Georgia,0.453
+2010,Georgia,0.364
+2011,Georgia,0.421
+2012,Georgia,0.401
+2013,Georgia,0.379
+2014,Georgia,0.382
+2015,Georgia,0.361
+2016,Georgia,0.377
+1980,Hawaii,0.266
+1981,Hawaii,0.241
+1982,Hawaii,0.159
+1983,Hawaii,0.195
+1984,Hawaii,0.202
+1985,Hawaii,0.217
+1986,Hawaii,0.219
+1987,Hawaii,0.23
+1988,Hawaii,0.184
+1989,Hawaii,0.233
+1990,Hawaii,0.186
+1991,Hawaii,0.211
+1992,Hawaii,0.192
+1993,Hawaii,0.188
+1994,Hawaii,0.254
+1995,Hawaii,0.227
+1996,Hawaii,0.146
+1997,Hawaii,0.176
+1998,Hawaii,0.124
+1999,Hawaii,0.075
+2000,Hawaii,0.124
+2001,Hawaii,0.103
+2002,Hawaii,0.098
+2003,Hawaii,0.063
+2004,Hawaii,0.2
+2005,Hawaii,0.072
+2006,Hawaii,0.116
+2007,Hawaii,0.064
+2008,Hawaii,0.099
+2009,Hawaii,0.062
+2010,Hawaii,0.084
+2011,Hawaii,0.081
+2012,Hawaii,0.12
+2013,Hawaii,0.073
+2014,Hawaii,0.034
+2015,Hawaii,0.096
+2016,Hawaii,0.091
+1980,Idaho,0.659
+1981,Idaho,0.675
+1982,Idaho,0.685
+1983,Idaho,0.67
+1984,Idaho,0.579
+1985,Idaho,0.666
+1986,Idaho,0.625
+1987,Idaho,0.649
+1988,Idaho,0.691
+1989,Idaho,0.663
+1990,Idaho,0.664
+1991,Idaho,0.669
+1992,Idaho,0.666
+1993,Idaho,0.676
+1994,Idaho,0.617
+1995,Idaho,0.663
+1996,Idaho,0.601
+1997,Idaho,0.586
+1998,Idaho,0.622
+1999,Idaho,0.583
+2000,Idaho,0.609
+2001,Idaho,0.573
+2002,Idaho,0.576
+2003,Idaho,0.51
+2004,Idaho,0.557
+2005,Idaho,0.589
+2006,Idaho,0.554
+2007,Idaho,0.561
+2008,Idaho,0.543
+2009,Idaho,0.541
+2010,Idaho,0.523
+2011,Idaho,0.466
+2012,Idaho,0.552
+2013,Idaho,0.542
+2014,Idaho,0.53
+2015,Idaho,0.509
+2016,Idaho,0.578
+1980,Illinois,0.312
+1981,Illinois,0.307
+1982,Illinois,0.295
+1983,Illinois,0.305
+1984,Illinois,0.301
+1985,Illinois,0.334
+1986,Illinois,0.287
+1987,Illinois,0.309
+1988,Illinois,0.339
+1989,Illinois,0.37
+1990,Illinois,0.36
+1991,Illinois,0.336
+1992,Illinois,0.324
+1993,Illinois,0.308
+1994,Illinois,0.324
+1995,Illinois,0.327
+1996,Illinois,0.288
+1997,Illinois,0.297
+1998,Illinois,0.269
+1999,Illinois,0.279
+2000,Illinois,0.286
+2001,Illinois,0.218
+2002,Illinois,0.232
+2003,Illinois,0.218
+2004,Illinois,0.226
+2005,Illinois,0.23
+2006,Illinois,0.245
+2007,Illinois,0.225
+2008,Illinois,0.205
+2009,Illinois,0.243
+2010,Illinois,0.243
+2011,Illinois,0.243
+2012,Illinois,0.266
+2013,Illinois,0.244
+2014,Illinois,0.238
+2015,Illinois,0.238
+2016,Illinois,0.226
+1980,Indiana,0.541
+1981,Indiana,0.484
+1982,Indiana,0.515
+1983,Indiana,0.49
+1984,Indiana,0.509
+1985,Indiana,0.494
+1986,Indiana,0.449
+1987,Indiana,0.507
+1988,Indiana,0.531
+1989,Indiana,0.505
+1990,Indiana,0.527
+1991,Indiana,0.533
+1992,Indiana,0.505
+1993,Indiana,0.517
+1994,Indiana,0.505
+1995,Indiana,0.5
+1996,Indiana,0.479
+1997,Indiana,0.413
+1998,Indiana,0.467
+1999,Indiana,0.405
+2000,Indiana,0.444
+2001,Indiana,0.387
+2002,Indiana,0.408
+2003,Indiana,0.364
+2004,Indiana,0.391
+2005,Indiana,0.37
+2006,Indiana,0.386
+2007,Indiana,0.358
+2008,Indiana,0.374
+2009,Indiana,0.4
+2010,Indiana,0.391
+2011,Indiana,0.351
+2012,Indiana,0.432
+2013,Indiana,0.406
+2014,Indiana,0.424
+2015,Indiana,0.394
+2016,Indiana,0.424
+1980,Iowa,0.552
+1981,Iowa,0.524
+1982,Iowa,0.53
+1983,Iowa,0.437
+1984,Iowa,0.512
+1985,Iowa,0.546
+1986,Iowa,0.48
+1987,Iowa,0.47
+1988,Iowa,0.513
+1989,Iowa,0.515
+1990,Iowa,0.51
+1991,Iowa,0.5
+1992,Iowa,0.463
+1993,Iowa,0.462
+1994,Iowa,0.397
+1995,Iowa,0.397
+1996,Iowa,0.451
+1997,Iowa,0.437
+1998,Iowa,0.347
+1999,Iowa,0.397
+2000,Iowa,0.477
+2001,Iowa,0.398
+2002,Iowa,0.417
+2003,Iowa,0.389
+2004,Iowa,0.423
+2005,Iowa,0.359
+2006,Iowa,0.375
+2007,Iowa,0.388
+2008,Iowa,0.396
+2009,Iowa,0.387
+2010,Iowa,0.411
+2011,Iowa,0.376
+2012,Iowa,0.409
+2013,Iowa,0.401
+2014,Iowa,0.331
+2015,Iowa,0.36
+2016,Iowa,0.385
+1980,Kansas,0.592
+1981,Kansas,0.545
+1982,Kansas,0.623
+1983,Kansas,0.57
+1984,Kansas,0.573
+1985,Kansas,0.549
+1986,Kansas,0.533
+1987,Kansas,0.578
+1988,Kansas,0.567
+1989,Kansas,0.569
+1990,Kansas,0.585
+1991,Kansas,0.577
+1992,Kansas,0.539
+1993,Kansas,0.528
+1994,Kansas,0.527
+1995,Kansas,0.513
+1996,Kansas,0.505
+1997,Kansas,0.434
+1998,Kansas,0.464
+1999,Kansas,0.433
+2000,Kansas,0.469
+2001,Kansas,0.417
+2002,Kansas,0.418
+2003,Kansas,0.437
+2004,Kansas,0.428
+2005,Kansas,0.392
+2006,Kansas,0.426
+2007,Kansas,0.447
+2008,Kansas,0.421
+2009,Kansas,0.43
+2010,Kansas,0.439
+2011,Kansas,0.444
+2012,Kansas,0.455
+2013,Kansas,0.452
+2014,Kansas,0.419
+2015,Kansas,0.377
+2016,Kansas,0.423
+1980,Kentucky,0.54
+1981,Kentucky,0.592
+1982,Kentucky,0.592
+1983,Kentucky,0.571
+1984,Kentucky,0.626
+1985,Kentucky,0.61
+1986,Kentucky,0.57
+1987,Kentucky,0.581
+1988,Kentucky,0.621
+1989,Kentucky,0.595
+1990,Kentucky,0.599
+1991,Kentucky,0.595
+1992,Kentucky,0.576
+1993,Kentucky,0.611
+1994,Kentucky,0.584
+1995,Kentucky,0.549
+1996,Kentucky,0.551
+1997,Kentucky,0.553
+1998,Kentucky,0.585
+1999,Kentucky,0.54
+2000,Kentucky,0.553
+2001,Kentucky,0.522
+2002,Kentucky,0.52
+2003,Kentucky,0.507
+2004,Kentucky,0.52
+2005,Kentucky,0.502
+2006,Kentucky,0.476
+2007,Kentucky,0.509
+2008,Kentucky,0.499
+2009,Kentucky,0.491
+2010,Kentucky,0.464
+2011,Kentucky,0.529
+2012,Kentucky,0.514
+2013,Kentucky,0.498
+2014,Kentucky,0.467
+2015,Kentucky,0.464
+2016,Kentucky,0.525
+1980,Louisiana,0.569
+1981,Louisiana,0.62
+1982,Louisiana,0.574
+1983,Louisiana,0.603
+1984,Louisiana,0.57
+1985,Louisiana,0.596
+1986,Louisiana,0.579
+1987,Louisiana,0.603
+1988,Louisiana,0.593
+1989,Louisiana,0.58
+1990,Louisiana,0.617
+1991,Louisiana,0.649
+1992,Louisiana,0.565
+1993,Louisiana,0.582
+1994,Louisiana,0.575
+1995,Louisiana,0.564
+1996,Louisiana,0.468
+1997,Louisiana,0.547
+1998,Louisiana,0.477
+1999,Louisiana,0.513
+2000,Louisiana,0.505
+2001,Louisiana,0.45
+2002,Louisiana,0.485
+2003,Louisiana,0.476
+2004,Louisiana,0.491
+2005,Louisiana,0.486
+2006,Louisiana,0.483
+2007,Louisiana,0.476
+2008,Louisiana,0.492
+2009,Louisiana,0.458
+2010,Louisiana,0.454
+2011,Louisiana,0.467
+2012,Louisiana,0.551
+2013,Louisiana,0.487
+2014,Louisiana,0.481
+2015,Louisiana,0.456
+2016,Louisiana,0.523
+1980,Maine,0.47
+1981,Maine,0.493
+1982,Maine,0.453
+1983,Maine,0.454
+1984,Maine,0.498
+1985,Maine,0.484
+1986,Maine,0.496
+1987,Maine,0.482
+1988,Maine,0.562
+1989,Maine,0.549
+1990,Maine,0.539
+1991,Maine,0.555
+1992,Maine,0.539
+1993,Maine,0.504
+1994,Maine,0.476
+1995,Maine,0.455
+1996,Maine,0.478
+1997,Maine,0.453
+1998,Maine,0.421
+1999,Maine,0.441
+2000,Maine,0.466
+2001,Maine,0.403
+2002,Maine,0.41
+2003,Maine,0.421
+2004,Maine,0.411
+2005,Maine,0.425
+2006,Maine,0.431
+2007,Maine,0.457
+2008,Maine,0.462
+2009,Maine,0.441
+2010,Maine,0.46
+2011,Maine,0.47
+2012,Maine,0.46
+2013,Maine,0.496
+2014,Maine,0.423
+2015,Maine,0.413
+2016,Maine,0.477
+1980,Maryland,0.37
+1981,Maryland,0.452
+1982,Maryland,0.399
+1983,Maryland,0.363
+1984,Maryland,0.386
+1985,Maryland,0.374
+1986,Maryland,0.353
+1987,Maryland,0.383
+1988,Maryland,0.367
+1989,Maryland,0.396
+1990,Maryland,0.398
+1991,Maryland,0.372
+1992,Maryland,0.413
+1993,Maryland,0.353
+1994,Maryland,0.376
+1995,Maryland,0.375
+1996,Maryland,0.283
+1997,Maryland,0.324
+1998,Maryland,0.287
+1999,Maryland,0.298
+2000,Maryland,0.265
+2001,Maryland,0.249
+2002,Maryland,0.252
+2003,Maryland,0.24
+2004,Maryland,0.236
+2005,Maryland,0.266
+2006,Maryland,0.237
+2007,Maryland,0.206
+2008,Maryland,0.235
+2009,Maryland,0.218
+2010,Maryland,0.196
+2011,Maryland,0.266
+2012,Maryland,0.213
+2013,Maryland,0.18
+2014,Maryland,0.219
+2015,Maryland,0.201
+2016,Maryland,0.167
+1980,Massachusetts,0.169
+1981,Massachusetts,0.217
+1982,Massachusetts,0.18
+1983,Massachusetts,0.156
+1984,Massachusetts,0.206
+1985,Massachusetts,0.195
+1986,Massachusetts,0.155
+1987,Massachusetts,0.191
+1988,Massachusetts,0.17
+1989,Massachusetts,0.203
+1990,Massachusetts,0.185
+1991,Massachusetts,0.207
+1992,Massachusetts,0.204
+1993,Massachusetts,0.211
+1994,Massachusetts,0.186
+1995,Massachusetts,0.181
+1996,Massachusetts,0.155
+1997,Massachusetts,0.15
+1998,Massachusetts,0.158
+1999,Massachusetts,0.136
+2000,Massachusetts,0.126
+2001,Massachusetts,0.121
+2002,Massachusetts,0.115
+2003,Massachusetts,0.129
+2004,Massachusetts,0.104
+2005,Massachusetts,0.103
+2006,Massachusetts,0.116
+2007,Massachusetts,0.075
+2008,Massachusetts,0.096
+2009,Massachusetts,0.091
+2010,Massachusetts,0.122
+2011,Massachusetts,0.135
+2012,Massachusetts,0.111
+2013,Massachusetts,0.085
+2014,Massachusetts,0.1
+2015,Massachusetts,0.088
+2016,Massachusetts,0.09
+1980,Michigan,0.444
+1981,Michigan,0.41
+1982,Michigan,0.439
+1983,Michigan,0.425
+1984,Michigan,0.463
+1985,Michigan,0.408
+1986,Michigan,0.394
+1987,Michigan,0.47
+1988,Michigan,0.45
+1989,Michigan,0.494
+1990,Michigan,0.508
+1991,Michigan,0.49
+1992,Michigan,0.427
+1993,Michigan,0.443
+1994,Michigan,0.45
+1995,Michigan,0.425
+1996,Michigan,0.429
+1997,Michigan,0.387
+1998,Michigan,0.416
+1999,Michigan,0.368
+2000,Michigan,0.401
+2001,Michigan,0.38
+2002,Michigan,0.388
+2003,Michigan,0.359
+2004,Michigan,0.384
+2005,Michigan,0.346
+2006,Michigan,0.372
+2007,Michigan,0.334
+2008,Michigan,0.315
+2009,Michigan,0.354
+2010,Michigan,0.342
+2011,Michigan,0.325
+2012,Michigan,0.391
+2013,Michigan,0.36
+2014,Michigan,0.347
+2015,Michigan,0.358
+2016,Michigan,0.389
+1980,Minnesota,0.527
+1981,Minnesota,0.409
+1982,Minnesota,0.536
+1983,Minnesota,0.463
+1984,Minnesota,0.462
+1985,Minnesota,0.528
+1986,Minnesota,0.446
+1987,Minnesota,0.442
+1988,Minnesota,0.456
+1989,Minnesota,0.464
+1990,Minnesota,0.448
+1991,Minnesota,0.463
+1992,Minnesota,0.456
+1993,Minnesota,0.442
+1994,Minnesota,0.444
+1995,Minnesota,0.423
+1996,Minnesota,0.464
+1997,Minnesota,0.395
+1998,Minnesota,0.427
+1999,Minnesota,0.411
+2000,Minnesota,0.447
+2001,Minnesota,0.405
+2002,Minnesota,0.409
+2003,Minnesota,0.405
+2004,Minnesota,0.406
+2005,Minnesota,0.387
+2006,Minnesota,0.373
+2007,Minnesota,0.403
+2008,Minnesota,0.386
+2009,Minnesota,0.396
+2010,Minnesota,0.41
+2011,Minnesota,0.411
+2012,Minnesota,0.382
+2013,Minnesota,0.424
+2014,Minnesota,0.353
+2015,Minnesota,0.341
+2016,Minnesota,0.391
+1980,Mississippi,0.59
+1981,Mississippi,0.605
+1982,Mississippi,0.596
+1983,Mississippi,0.626
+1984,Mississippi,0.628
+1985,Mississippi,0.613
+1986,Mississippi,0.591
+1987,Mississippi,0.617
+1988,Mississippi,0.625
+1989,Mississippi,0.617
+1990,Mississippi,0.614
+1991,Mississippi,0.624
+1992,Mississippi,0.56
+1993,Mississippi,0.605
+1994,Mississippi,0.575
+1995,Mississippi,0.588
+1996,Mississippi,0.59
+1997,Mississippi,0.568
+1998,Mississippi,0.512
+1999,Mississippi,0.57
+2000,Mississippi,0.536
+2001,Mississippi,0.545
+2002,Mississippi,0.541
+2003,Mississippi,0.541
+2004,Mississippi,0.53
+2005,Mississippi,0.5
+2006,Mississippi,0.49
+2007,Mississippi,0.522
+2008,Mississippi,0.497
+2009,Mississippi,0.478
+2010,Mississippi,0.48
+2011,Mississippi,0.498
+2012,Mississippi,0.568
+2013,Mississippi,0.502
+2014,Mississippi,0.488
+2015,Mississippi,0.474
+2016,Mississippi,0.541
+1980,Missouri,0.569
+1981,Missouri,0.501
+1982,Missouri,0.514
+1983,Missouri,0.484
+1984,Missouri,0.516
+1985,Missouri,0.512
+1986,Missouri,0.481
+1987,Missouri,0.523
+1988,Missouri,0.525
+1989,Missouri,0.55
+1990,Missouri,0.582
+1991,Missouri,0.536
+1992,Missouri,0.478
+1993,Missouri,0.492
+1994,Missouri,0.52
+1995,Missouri,0.468
+1996,Missouri,0.485
+1997,Missouri,0.459
+1998,Missouri,0.474
+1999,Missouri,0.426
+2000,Missouri,0.461
+2001,Missouri,0.446
+2002,Missouri,0.477
+2003,Missouri,0.433
+2004,Missouri,0.451
+2005,Missouri,0.417
+2006,Missouri,0.445
+2007,Missouri,0.449
+2008,Missouri,0.487
+2009,Missouri,0.47
+2010,Missouri,0.463
+2011,Missouri,0.434
+2012,Missouri,0.511
+2013,Missouri,0.486
+2014,Missouri,0.497
+2015,Missouri,0.488
+2016,Missouri,0.528
+1980,Montana,0.782
+1981,Montana,0.695
+1982,Montana,0.656
+1983,Montana,0.759
+1984,Montana,0.778
+1985,Montana,0.717
+1986,Montana,0.693
+1987,Montana,0.737
+1988,Montana,0.669
+1989,Montana,0.665
+1990,Montana,0.668
+1991,Montana,0.673
+1992,Montana,0.638
+1993,Montana,0.7
+1994,Montana,0.689
+1995,Montana,0.684
+1996,Montana,0.654
+1997,Montana,0.621
+1998,Montana,0.657
+1999,Montana,0.581
+2000,Montana,0.646
+2001,Montana,0.623
+2002,Montana,0.626
+2003,Montana,0.632
+2004,Montana,0.62
+2005,Montana,0.694
+2006,Montana,0.614
+2007,Montana,0.639
+2008,Montana,0.69
+2009,Montana,0.625
+2010,Montana,0.621
+2011,Montana,0.603
+2012,Montana,0.658
+2013,Montana,0.633
+2014,Montana,0.64
+2015,Montana,0.608
+2016,Montana,0.65
+1980,Nebraska,0.545
+1981,Nebraska,0.507
+1982,Nebraska,0.496
+1983,Nebraska,0.539
+1984,Nebraska,0.503
+1985,Nebraska,0.517
+1986,Nebraska,0.509
+1987,Nebraska,0.504
+1988,Nebraska,0.534
+1989,Nebraska,0.546
+1990,Nebraska,0.523
+1991,Nebraska,0.526
+1992,Nebraska,0.471
+1993,Nebraska,0.465
+1994,Nebraska,0.419
+1995,Nebraska,0.451
+1996,Nebraska,0.504
+1997,Nebraska,0.438
+1998,Nebraska,0.42
+1999,Nebraska,0.455
+2000,Nebraska,0.486
+2001,Nebraska,0.4
+2002,Nebraska,0.419
+2003,Nebraska,0.391
+2004,Nebraska,0.466
+2005,Nebraska,0.371
+2006,Nebraska,0.351
+2007,Nebraska,0.426
+2008,Nebraska,0.34
+2009,Nebraska,0.415
+2010,Nebraska,0.425
+2011,Nebraska,0.418
+2012,Nebraska,0.416
+2013,Nebraska,0.405
+2014,Nebraska,0.365
+2015,Nebraska,0.362
+2016,Nebraska,0.392
+1980,Nevada,0.561
+1981,Nevada,0.592
+1982,Nevada,0.627
+1983,Nevada,0.617
+1984,Nevada,0.571
+1985,Nevada,0.51
+1986,Nevada,0.582
+1987,Nevada,0.557
+1988,Nevada,0.617
+1989,Nevada,0.62
+1990,Nevada,0.607
+1991,Nevada,0.597
+1992,Nevada,0.582
+1993,Nevada,0.557
+1994,Nevada,0.539
+1995,Nevada,0.541
+1996,Nevada,0.519
+1997,Nevada,0.52
+1998,Nevada,0.474
+1999,Nevada,0.433
+2000,Nevada,0.471
+2001,Nevada,0.369
+2002,Nevada,0.386
+2003,Nevada,0.36
+2004,Nevada,0.392
+2005,Nevada,0.36
+2006,Nevada,0.351
+2007,Nevada,0.397
+2008,Nevada,0.371
+2009,Nevada,0.391
+2010,Nevada,0.372
+2011,Nevada,0.318
+2012,Nevada,0.377
+2013,Nevada,0.351
+2014,Nevada,0.344
+2015,Nevada,0.328
+2016,Nevada,0.329
+1980,New Hampshire,0.408
+1981,New Hampshire,0.455
+1982,New Hampshire,0.461
+1983,New Hampshire,0.437
+1984,New Hampshire,0.495
+1985,New Hampshire,0.422
+1986,New Hampshire,0.445
+1987,New Hampshire,0.423
+1988,New Hampshire,0.47
+1989,New Hampshire,0.467
+1990,New Hampshire,0.464
+1991,New Hampshire,0.47
+1992,New Hampshire,0.483
+1993,New Hampshire,0.476
+1994,New Hampshire,0.442
+1995,New Hampshire,0.452
+1996,New Hampshire,0.441
+1997,New Hampshire,0.387
+1998,New Hampshire,0.423
+1999,New Hampshire,0.374
+2000,New Hampshire,0.391
+2001,New Hampshire,0.31
+2002,New Hampshire,0.317
+2003,New Hampshire,0.33
+2004,New Hampshire,0.315
+2005,New Hampshire,0.364
+2006,New Hampshire,0.364
+2007,New Hampshire,0.364
+2008,New Hampshire,0.368
+2009,New Hampshire,0.383
+2010,New Hampshire,0.394
+2011,New Hampshire,0.385
+2012,New Hampshire,0.394
+2013,New Hampshire,0.406
+2014,New Hampshire,0.381
+2015,New Hampshire,0.372
+2016,New Hampshire,0.463
+1980,New Jersey,0.201
+1981,New Jersey,0.225
+1982,New Jersey,0.32
+1983,New Jersey,0.2
+1984,New Jersey,0.187
+1985,New Jersey,0.173
+1986,New Jersey,0.181
+1987,New Jersey,0.228
+1988,New Jersey,0.168
+1989,New Jersey,0.214
+1990,New Jersey,0.193
+1991,New Jersey,0.21
+1992,New Jersey,0.213
+1993,New Jersey,0.176
+1994,New Jersey,0.167
+1995,New Jersey,0.195
+1996,New Jersey,0.122
+1997,New Jersey,0.133
+1998,New Jersey,0.167
+1999,New Jersey,0.144
+2000,New Jersey,0.108
+2001,New Jersey,0.122
+2002,New Jersey,0.117
+2003,New Jersey,0.112
+2004,New Jersey,0.108
+2005,New Jersey,0.106
+2006,New Jersey,0.118
+2007,New Jersey,0.063
+2008,New Jersey,0.088
+2009,New Jersey,0.098
+2010,New Jersey,0.085
+2011,New Jersey,0.102
+2012,New Jersey,0.07
+2013,New Jersey,0.056
+2014,New Jersey,0.097
+2015,New Jersey,0.081
+2016,New Jersey,0.089
+1980,New Mexico,0.553
+1981,New Mexico,0.53
+1982,New Mexico,0.562
+1983,New Mexico,0.524
+1984,New Mexico,0.519
+1985,New Mexico,0.548
+1986,New Mexico,0.535
+1987,New Mexico,0.547
+1988,New Mexico,0.567
+1989,New Mexico,0.555
+1990,New Mexico,0.496
+1991,New Mexico,0.552
+1992,New Mexico,0.496
+1993,New Mexico,0.496
+1994,New Mexico,0.521
+1995,New Mexico,0.522
+1996,New Mexico,0.488
+1997,New Mexico,0.437
+1998,New Mexico,0.469
+1999,New Mexico,0.446
+2000,New Mexico,0.438
+2001,New Mexico,0.391
+2002,New Mexico,0.431
+2003,New Mexico,0.407
+2004,New Mexico,0.391
+2005,New Mexico,0.406
+2006,New Mexico,0.392
+2007,New Mexico,0.428
+2008,New Mexico,0.357
+2009,New Mexico,0.375
+2010,New Mexico,0.375
+2011,New Mexico,0.366
+2012,New Mexico,0.403
+2013,New Mexico,0.482
+2014,New Mexico,0.356
+2015,New Mexico,0.37
+2016,New Mexico,0.359
+1980,New York,0.201
+1981,New York,0.228
+1982,New York,0.206
+1983,New York,0.214
+1984,New York,0.245
+1985,New York,0.241
+1986,New York,0.242
+1987,New York,0.271
+1988,New York,0.258
+1989,New York,0.305
+1990,New York,0.266
+1991,New York,0.269
+1992,New York,0.256
+1993,New York,0.262
+1994,New York,0.235
+1995,New York,0.231
+1996,New York,0.193
+1997,New York,0.205
+1998,New York,0.184
+1999,New York,0.197
+2000,New York,0.197
+2001,New York,0.182
+2002,New York,0.177
+2003,New York,0.157
+2004,New York,0.174
+2005,New York,0.192
+2006,New York,0.164
+2007,New York,0.14
+2008,New York,0.142
+2009,New York,0.152
+2010,New York,0.143
+2011,New York,0.158
+2012,New York,0.154
+2013,New York,0.124
+2014,New York,0.126
+2015,New York,0.119
+2016,New York,0.145
+1980,North Carolina,0.579
+1981,North Carolina,0.547
+1982,North Carolina,0.571
+1983,North Carolina,0.552
+1984,North Carolina,0.585
+1985,North Carolina,0.554
+1986,North Carolina,0.522
+1987,North Carolina,0.573
+1988,North Carolina,0.561
+1989,North Carolina,0.563
+1990,North Carolina,0.541
+1991,North Carolina,0.565
+1992,North Carolina,0.529
+1993,North Carolina,0.573
+1994,North Carolina,0.54
+1995,North Carolina,0.461
+1996,North Carolina,0.516
+1997,North Carolina,0.474
+1998,North Carolina,0.464
+1999,North Carolina,0.417
+2000,North Carolina,0.426
+2001,North Carolina,0.382
+2002,North Carolina,0.397
+2003,North Carolina,0.374
+2004,North Carolina,0.383
+2005,North Carolina,0.375
+2006,North Carolina,0.351
+2007,North Carolina,0.36
+2008,North Carolina,0.345
+2009,North Carolina,0.341
+2010,North Carolina,0.35
+2011,North Carolina,0.406
+2012,North Carolina,0.379
+2013,North Carolina,0.355
+2014,North Carolina,0.334
+2015,North Carolina,0.316
+2016,North Carolina,0.371
+1980,North Dakota,0.53
+1981,North Dakota,0.567
+1982,North Dakota,0.558
+1983,North Dakota,0.53
+1984,North Dakota,0.597
+1985,North Dakota,0.627
+1986,North Dakota,0.542
+1987,North Dakota,0.596
+1988,North Dakota,0.598
+1989,North Dakota,0.565
+1990,North Dakota,0.553
+1991,North Dakota,0.518
+1992,North Dakota,0.574
+1993,North Dakota,0.594
+1994,North Dakota,0.522
+1995,North Dakota,0.598
+1996,North Dakota,0.566
+1997,North Dakota,0.54
+1998,North Dakota,0.512
+1999,North Dakota,0.56
+2000,North Dakota,0.55
+2001,North Dakota,0.503
+2002,North Dakota,0.517
+2003,North Dakota,0.51
+2004,North Dakota,0.546
+2005,North Dakota,0.546
+2006,North Dakota,0.484
+2007,North Dakota,0.538
+2008,North Dakota,0.586
+2009,North Dakota,0.537
+2010,North Dakota,0.543
+2011,North Dakota,0.541
+2012,North Dakota,0.561
+2013,North Dakota,0.567
+2014,North Dakota,0.57
+2015,North Dakota,0.504
+2016,North Dakota,0.533
+1980,Ohio,0.458
+1981,Ohio,0.444
+1982,Ohio,0.487
+1983,Ohio,0.421
+1984,Ohio,0.464
+1985,Ohio,0.408
+1986,Ohio,0.425
+1987,Ohio,0.472
+1988,Ohio,0.458
+1989,Ohio,0.479
+1990,Ohio,0.486
+1991,Ohio,0.472
+1992,Ohio,0.462
+1993,Ohio,0.443
+1994,Ohio,0.477
+1995,Ohio,0.448
+1996,Ohio,0.397
+1997,Ohio,0.362
+1998,Ohio,0.381
+1999,Ohio,0.365
+2000,Ohio,0.351
+2001,Ohio,0.324
+2002,Ohio,0.321
+2003,Ohio,0.335
+2004,Ohio,0.328
+2005,Ohio,0.348
+2006,Ohio,0.353
+2007,Ohio,0.324
+2008,Ohio,0.365
+2009,Ohio,0.368
+2010,Ohio,0.357
+2011,Ohio,0.334
+2012,Ohio,0.362
+2013,Ohio,0.359
+2014,Ohio,0.366
+2015,Ohio,0.388
+2016,Ohio,0.419
+1980,Oklahoma,0.609
+1981,Oklahoma,0.58
+1982,Oklahoma,0.595
+1983,Oklahoma,0.575
+1984,Oklahoma,0.612
+1985,Oklahoma,0.599
+1986,Oklahoma,0.596
+1987,Oklahoma,0.649
+1988,Oklahoma,0.637
+1989,Oklahoma,0.643
+1990,Oklahoma,0.655
+1991,Oklahoma,0.604
+1992,Oklahoma,0.549
+1993,Oklahoma,0.605
+1994,Oklahoma,0.572
+1995,Oklahoma,0.52
+1996,Oklahoma,0.537
+1997,Oklahoma,0.55
+1998,Oklahoma,0.498
+1999,Oklahoma,0.498
+2000,Oklahoma,0.558
+2001,Oklahoma,0.48
+2002,Oklahoma,0.483
+2003,Oklahoma,0.467
+2004,Oklahoma,0.495
+2005,Oklahoma,0.441
+2006,Oklahoma,0.468
+2007,Oklahoma,0.497
+2008,Oklahoma,0.508
+2009,Oklahoma,0.508
+2010,Oklahoma,0.488
+2011,Oklahoma,0.533
+2012,Oklahoma,0.563
+2013,Oklahoma,0.537
+2014,Oklahoma,0.493
+2015,Oklahoma,0.487
+2016,Oklahoma,0.549
+1980,Oregon,0.577
+1981,Oregon,0.604
+1982,Oregon,0.582
+1983,Oregon,0.541
+1984,Oregon,0.6
+1985,Oregon,0.59
+1986,Oregon,0.573
+1987,Oregon,0.567
+1988,Oregon,0.576
+1989,Oregon,0.604
+1990,Oregon,0.594
+1991,Oregon,0.563
+1992,Oregon,0.572
+1993,Oregon,0.554
+1994,Oregon,0.533
+1995,Oregon,0.592
+1996,Oregon,0.542
+1997,Oregon,0.493
+1998,Oregon,0.518
+1999,Oregon,0.515
+2000,Oregon,0.516
+2001,Oregon,0.415
+2002,Oregon,0.422
+2003,Oregon,0.427
+2004,Oregon,0.407
+2005,Oregon,0.484
+2006,Oregon,0.451
+2007,Oregon,0.46
+2008,Oregon,0.436
+2009,Oregon,0.456
+2010,Oregon,0.409
+2011,Oregon,0.413
+2012,Oregon,0.476
+2013,Oregon,0.456
+2014,Oregon,0.462
+2015,Oregon,0.407
+2016,Oregon,0.414
+1980,Pennsylvania,0.437
+1981,Pennsylvania,0.457
+1982,Pennsylvania,0.49
+1983,Pennsylvania,0.417
+1984,Pennsylvania,0.463
+1985,Pennsylvania,0.424
+1986,Pennsylvania,0.415
+1987,Pennsylvania,0.421
+1988,Pennsylvania,0.423
+1989,Pennsylvania,0.44
+1990,Pennsylvania,0.45
+1991,Pennsylvania,0.437
+1992,Pennsylvania,0.474
+1993,Pennsylvania,0.472
+1994,Pennsylvania,0.444
+1995,Pennsylvania,0.469
+1996,Pennsylvania,0.371
+1997,Pennsylvania,0.372
+1998,Pennsylvania,0.412
+1999,Pennsylvania,0.389
+2000,Pennsylvania,0.391
+2001,Pennsylvania,0.363
+2002,Pennsylvania,0.381
+2003,Pennsylvania,0.397
+2004,Pennsylvania,0.356
+2005,Pennsylvania,0.414
+2006,Pennsylvania,0.382
+2007,Pennsylvania,0.346
+2008,Pennsylvania,0.384
+2009,Pennsylvania,0.371
+2010,Pennsylvania,0.355
+2011,Pennsylvania,0.362
+2012,Pennsylvania,0.38
+2013,Pennsylvania,0.368
+2014,Pennsylvania,0.361
+2015,Pennsylvania,0.368
+2016,Pennsylvania,0.402
+1980,Rhode Island,0.113
+1981,Rhode Island,0.152
+1982,Rhode Island,0.146
+1983,Rhode Island,0.157
+1984,Rhode Island,0.155
+1985,Rhode Island,0.129
+1986,Rhode Island,0.171
+1987,Rhode Island,0.183
+1988,Rhode Island,0.175
+1989,Rhode Island,0.236
+1990,Rhode Island,0.188
+1991,Rhode Island,0.216
+1992,Rhode Island,0.246
+1993,Rhode Island,0.192
+1994,Rhode Island,0.214
+1995,Rhode Island,0.226
+1996,Rhode Island,0.178
+1997,Rhode Island,0.146
+1998,Rhode Island,0.147
+1999,Rhode Island,0.166
+2000,Rhode Island,0.153
+2001,Rhode Island,0.134
+2002,Rhode Island,0.136
+2003,Rhode Island,0.074
+2004,Rhode Island,0.116
+2005,Rhode Island,0.124
+2006,Rhode Island,0.129
+2007,Rhode Island,0.072
+2008,Rhode Island,0.092
+2009,Rhode Island,0.145
+2010,Rhode Island,0.091
+2011,Rhode Island,0.1
+2012,Rhode Island,0.109
+2013,Rhode Island,0.09
+2014,Rhode Island,0.1
+2015,Rhode Island,0.151
+2016,Rhode Island,0.139
+1980,South Carolina,0.575
+1981,South Carolina,0.544
+1982,South Carolina,0.565
+1983,South Carolina,0.546
+1984,South Carolina,0.546
+1985,South Carolina,0.588
+1986,South Carolina,0.537
+1987,South Carolina,0.538
+1988,South Carolina,0.588
+1989,South Carolina,0.618
+1990,South Carolina,0.61
+1991,South Carolina,0.582
+1992,South Carolina,0.533
+1993,South Carolina,0.527
+1994,South Carolina,0.541
+1995,South Carolina,0.494
+1996,South Carolina,0.493
+1997,South Carolina,0.521
+1998,South Carolina,0.464
+1999,South Carolina,0.468
+2000,South Carolina,0.492
+2001,South Carolina,0.442
+2002,South Carolina,0.466
+2003,South Carolina,0.456
+2004,South Carolina,0.436
+2005,South Carolina,0.394
+2006,South Carolina,0.403
+2007,South Carolina,0.415
+2008,South Carolina,0.42
+2009,South Carolina,0.409
+2010,South Carolina,0.418
+2011,South Carolina,0.466
+2012,South Carolina,0.459
+2013,South Carolina,0.445
+2014,South Carolina,0.42
+2015,South Carolina,0.393
+2016,South Carolina,0.45
+1980,South Dakota,0.592
+1981,South Dakota,0.585
+1982,South Dakota,0.54
+1983,South Dakota,0.624
+1984,South Dakota,0.501
+1985,South Dakota,0.58
+1986,South Dakota,0.588
+1987,South Dakota,0.568
+1988,South Dakota,0.605
+1989,South Dakota,0.604
+1990,South Dakota,0.617
+1991,South Dakota,0.596
+1992,South Dakota,0.55
+1993,South Dakota,0.621
+1994,South Dakota,0.635
+1995,South Dakota,0.617
+1996,South Dakota,0.582
+1997,South Dakota,0.518
+1998,South Dakota,0.524
+1999,South Dakota,0.494
+2000,South Dakota,0.547
+2001,South Dakota,0.518
+2002,South Dakota,0.564
+2003,South Dakota,0.537
+2004,South Dakota,0.567
+2005,South Dakota,0.504
+2006,South Dakota,0.514
+2007,South Dakota,0.511
+2008,South Dakota,0.51
+2009,South Dakota,0.519
+2010,South Dakota,0.523
+2011,South Dakota,0.479
+2012,South Dakota,0.568
+2013,South Dakota,0.523
+2014,South Dakota,0.5
+2015,South Dakota,0.492
+2016,South Dakota,0.55
+1980,Tennessee,0.573
+1981,Tennessee,0.577
+1982,Tennessee,0.599
+1983,Tennessee,0.577
+1984,Tennessee,0.585
+1985,Tennessee,0.607
+1986,Tennessee,0.548
+1987,Tennessee,0.582
+1988,Tennessee,0.588
+1989,Tennessee,0.584
+1990,Tennessee,0.557
+1991,Tennessee,0.576
+1992,Tennessee,0.581
+1993,Tennessee,0.59
+1994,Tennessee,0.574
+1995,Tennessee,0.565
+1996,Tennessee,0.518
+1997,Tennessee,0.508
+1998,Tennessee,0.513
+1999,Tennessee,0.503
+2000,Tennessee,0.489
+2001,Tennessee,0.444
+2002,Tennessee,0.468
+2003,Tennessee,0.436
+2004,Tennessee,0.472
+2005,Tennessee,0.467
+2006,Tennessee,0.447
+2007,Tennessee,0.461
+2008,Tennessee,0.495
+2009,Tennessee,0.421
+2010,Tennessee,0.438
+2011,Tennessee,0.491
+2012,Tennessee,0.478
+2013,Tennessee,0.469
+2014,Tennessee,0.427
+2015,Tennessee,0.416
+2016,Tennessee,0.469
+1980,Texas,0.58
+1981,Texas,0.586
+1982,Texas,0.613
+1983,Texas,0.586
+1984,Texas,0.545
+1985,Texas,0.506
+1986,Texas,0.529
+1987,Texas,0.516
+1988,Texas,0.541
+1989,Texas,0.555
+1990,Texas,0.53
+1991,Texas,0.514
+1992,Texas,0.522
+1993,Texas,0.563
+1994,Texas,0.517
+1995,Texas,0.488
+1996,Texas,0.491
+1997,Texas,0.494
+1998,Texas,0.466
+1999,Texas,0.421
+2000,Texas,0.417
+2001,Texas,0.377
+2002,Texas,0.379
+2003,Texas,0.362
+2004,Texas,0.368
+2005,Texas,0.376
+2006,Texas,0.363
+2007,Texas,0.392
+2008,Texas,0.367
+2009,Texas,0.357
+2010,Texas,0.346
+2011,Texas,0.378
+2012,Texas,0.426
+2013,Texas,0.364
+2014,Texas,0.385
+2015,Texas,0.336
+2016,Texas,0.355
+1980,Utah,0.53
+1981,Utah,0.496
+1982,Utah,0.551
+1983,Utah,0.535
+1984,Utah,0.581
+1985,Utah,0.565
+1986,Utah,0.531
+1987,Utah,0.57
+1988,Utah,0.56
+1989,Utah,0.566
+1990,Utah,0.551
+1991,Utah,0.524
+1992,Utah,0.489
+1993,Utah,0.496
+1994,Utah,0.479
+1995,Utah,0.477
+1996,Utah,0.481
+1997,Utah,0.464
+1998,Utah,0.47
+1999,Utah,0.428
+2000,Utah,0.505
+2001,Utah,0.455
+2002,Utah,0.467
+2003,Utah,0.401
+2004,Utah,0.442
+2005,Utah,0.377
+2006,Utah,0.378
+2007,Utah,0.426
+2008,Utah,0.355
+2009,Utah,0.396
+2010,Utah,0.416
+2011,Utah,0.392
+2012,Utah,0.423
+2013,Utah,0.425
+2014,Utah,0.349
+2015,Utah,0.35
+2016,Utah,0.397
+1980,Vermont,0.521
+1981,Vermont,0.483
+1982,Vermont,0.621
+1983,Vermont,0.466
+1984,Vermont,0.564
+1985,Vermont,0.519
+1986,Vermont,0.562
+1987,Vermont,0.569
+1988,Vermont,0.587
+1989,Vermont,0.615
+1990,Vermont,0.552
+1991,Vermont,0.6
+1992,Vermont,0.601
+1993,Vermont,0.594
+1994,Vermont,0.563
+1995,Vermont,0.561
+1996,Vermont,0.521
+1997,Vermont,0.46
+1998,Vermont,0.504
+1999,Vermont,0.551
+2000,Vermont,0.47
+2001,Vermont,0.43
+2002,Vermont,0.441
+2003,Vermont,0.427
+2004,Vermont,0.442
+2005,Vermont,0.403
+2006,Vermont,0.441
+2007,Vermont,0.43
+2008,Vermont,0.4
+2009,Vermont,0.498
+2010,Vermont,0.484
+2011,Vermont,0.472
+2012,Vermont,0.482
+2013,Vermont,0.483
+2014,Vermont,0.437
+2015,Vermont,0.43
+2016,Vermont,0.503
+1980,Virginia,0.558
+1981,Virginia,0.522
+1982,Virginia,0.538
+1983,Virginia,0.487
+1984,Virginia,0.519
+1985,Virginia,0.508
+1986,Virginia,0.505
+1987,Virginia,0.493
+1988,Virginia,0.523
+1989,Virginia,0.537
+1990,Virginia,0.517
+1991,Virginia,0.549
+1992,Virginia,0.553
+1993,Virginia,0.466
+1994,Virginia,0.5
+1995,Virginia,0.515
+1996,Virginia,0.49
+1997,Virginia,0.463
+1998,Virginia,0.448
+1999,Virginia,0.431
+2000,Virginia,0.418
+2001,Virginia,0.362
+2002,Virginia,0.386
+2003,Virginia,0.358
+2004,Virginia,0.384
+2005,Virginia,0.408
+2006,Virginia,0.373
+2007,Virginia,0.367
+2008,Virginia,0.372
+2009,Virginia,0.359
+2010,Virginia,0.363
+2011,Virginia,0.413
+2012,Virginia,0.397
+2013,Virginia,0.37
+2014,Virginia,0.362
+2015,Virginia,0.345
+2016,Virginia,0.353
+1980,Washington,0.489
+1981,Washington,0.529
+1982,Washington,0.54
+1983,Washington,0.498
+1984,Washington,0.488
+1985,Washington,0.495
+1986,Washington,0.446
+1987,Washington,0.472
+1988,Washington,0.488
+1989,Washington,0.511
+1990,Washington,0.474
+1991,Washington,0.456
+1992,Washington,0.487
+1993,Washington,0.492
+1994,Washington,0.457
+1995,Washington,0.503
+1996,Washington,0.458
+1997,Washington,0.427
+1998,Washington,0.446
+1999,Washington,0.396
+2000,Washington,0.402
+2001,Washington,0.341
+2002,Washington,0.362
+2003,Washington,0.383
+2004,Washington,0.369
+2005,Washington,0.364
+2006,Washington,0.359
+2007,Washington,0.361
+2008,Washington,0.38
+2009,Washington,0.366
+2010,Washington,0.338
+2011,Washington,0.335
+2012,Washington,0.339
+2013,Washington,0.344
+2014,Washington,0.335
+2015,Washington,0.318
+2016,Washington,0.321
+1980,West Virginia,0.632
+1981,West Virginia,0.612
+1982,West Virginia,0.595
+1983,West Virginia,0.553
+1984,West Virginia,0.651
+1985,West Virginia,0.626
+1986,West Virginia,0.601
+1987,West Virginia,0.604
+1988,West Virginia,0.605
+1989,West Virginia,0.566
+1990,West Virginia,0.558
+1991,West Virginia,0.56
+1992,West Virginia,0.632
+1993,West Virginia,0.636
+1994,West Virginia,0.589
+1995,West Virginia,0.648
+1996,West Virginia,0.589
+1997,West Virginia,0.526
+1998,West Virginia,0.538
+1999,West Virginia,0.573
+2000,West Virginia,0.541
+2001,West Virginia,0.549
+2002,West Virginia,0.58
+2003,West Virginia,0.561
+2004,West Virginia,0.556
+2005,West Virginia,0.631
+2006,West Virginia,0.56
+2007,West Virginia,0.599
+2008,West Virginia,0.575
+2009,West Virginia,0.551
+2010,West Virginia,0.572
+2011,West Virginia,0.622
+2012,West Virginia,0.571
+2013,West Virginia,0.602
+2014,West Virginia,0.547
+2015,West Virginia,0.537
+2016,West Virginia,0.6
+1980,Wisconsin,0.483
+1981,Wisconsin,0.423
+1982,Wisconsin,0.445
+1983,Wisconsin,0.43
+1984,Wisconsin,0.479
+1985,Wisconsin,0.471
+1986,Wisconsin,0.445
+1987,Wisconsin,0.469
+1988,Wisconsin,0.46
+1989,Wisconsin,0.496
+1990,Wisconsin,0.502
+1991,Wisconsin,0.485
+1992,Wisconsin,0.467
+1993,Wisconsin,0.516
+1994,Wisconsin,0.495
+1995,Wisconsin,0.466
+1996,Wisconsin,0.475
+1997,Wisconsin,0.418
+1998,Wisconsin,0.549
+1999,Wisconsin,0.434
+2000,Wisconsin,0.466
+2001,Wisconsin,0.431
+2002,Wisconsin,0.422
+2003,Wisconsin,0.445
+2004,Wisconsin,0.416
+2005,Wisconsin,0.41
+2006,Wisconsin,0.425
+2007,Wisconsin,0.414
+2008,Wisconsin,0.421
+2009,Wisconsin,0.432
+2010,Wisconsin,0.431
+2011,Wisconsin,0.414
+2012,Wisconsin,0.44
+2013,Wisconsin,0.448
+2014,Wisconsin,0.434
+2015,Wisconsin,0.434
+2016,Wisconsin,0.471
+1980,Wyoming,0.775
+1981,Wyoming,0.8
+1982,Wyoming,0.76
+1983,Wyoming,0.733
+1984,Wyoming,0.776
+1985,Wyoming,0.743
+1986,Wyoming,0.756
+1987,Wyoming,0.737
+1988,Wyoming,0.708
+1989,Wyoming,0.766
+1990,Wyoming,0.761
+1991,Wyoming,0.713
+1992,Wyoming,0.705
+1993,Wyoming,0.698
+1994,Wyoming,0.69
+1995,Wyoming,0.685
+1996,Wyoming,0.686
+1997,Wyoming,0.63
+1998,Wyoming,0.625
+1999,Wyoming,0.58
+2000,Wyoming,0.586
+2001,Wyoming,0.606
+2002,Wyoming,0.644
+2003,Wyoming,0.596
+2004,Wyoming,0.607
+2005,Wyoming,0.592
+2006,Wyoming,0.583
+2007,Wyoming,0.621
+2008,Wyoming,0.64
+2009,Wyoming,0.615
+2010,Wyoming,0.572
+2011,Wyoming,0.539
+2012,Wyoming,0.597
+2013,Wyoming,0.613
+2014,Wyoming,0.608
+2015,Wyoming,0.549
+2016,Wyoming,0.607
